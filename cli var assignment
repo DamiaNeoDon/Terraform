@@ -1,1 +1,0 @@
-terraform plan -var AWS_ACCESS_KEY="afsdfaafKEYHEREasfdasdf" -var AWS_SECRET_KEY="KEYHERE+n7RQOJRnSV"
