@@ -1,5 +1,11 @@
 #prevent disc from removing upon restart
-vim /ect/fstab # in cli
+mount -p /data
+mount /dev/xvdh /data
+vim /ect/fstab # cli
 dev/xvdh/data ext4 defaults 0 0
 
 #sprawdzić -> pliczek, echo "cze tu damiano" > test.txt
+
+
+
+### upon termination, rebooting, relaunching TF is recreating the GP2 too
