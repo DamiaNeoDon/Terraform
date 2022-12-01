@@ -1,0 +1,1 @@
+# to run use sql -u root -h mariadb.hash_goes_here.us-east-2.rds.amazonaws.com -p 'password_here'
