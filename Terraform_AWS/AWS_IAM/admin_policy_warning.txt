@@ -1,0 +1,1 @@
+# jeżeli administrative access is granted in policy DO NOT EXECUTE terraform destroy
